@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align='center'>
+  <img height=200 src='https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif' />
+</div>
 
 <!--
 **cmougan/cmougan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
