@@ -1,9 +1,10 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmougan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 <div align='center'>
   <img height=200 src='https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif' />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmougan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cmougan/cmougan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
