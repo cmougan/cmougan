@@ -5,12 +5,11 @@
   <img height=200 src='https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif' />
 </div>
 
-
-### I work with
+<center>
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com)
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)](https://www.mysql.com)
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.python.org)
-
+</center>
 <!--
 **cmougan/cmougan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
