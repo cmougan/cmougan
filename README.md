@@ -5,12 +5,12 @@
   <img height=200 src='https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif' />
 </div>
 
-
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com)
-[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)](https://www.mysql.com)
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.python.org)
 [![Jupyter](https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg)](https://jupyter.org/)
 [![Pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)](https://pytorch.org/)
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com)
+[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)](https://www.mysql.com)
+
 
 
 
