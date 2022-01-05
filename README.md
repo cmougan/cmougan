@@ -1,7 +1,8 @@
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmougan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>  
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmougan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 <h3 align="center"> Hi there 👋 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/carlosmougan/">
