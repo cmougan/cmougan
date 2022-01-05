@@ -1,6 +1,19 @@
 <div align='center'>
   <img height=200 src='https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif' />
 </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlosmougan/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/cmougan">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"
+    />
+  </a>
+</p>
+
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmougan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
