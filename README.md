@@ -20,20 +20,6 @@
   
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlosmougan/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/cmougan">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"
-    />
-  </a>
-</p>
-
-
 <div align="center">
   
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.python.org)
