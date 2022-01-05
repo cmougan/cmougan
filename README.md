@@ -1,14 +1,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmougan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
-<h3 align="center">I am</h3>
+<h3 align="center"> Hi there 👋 </h3>
 <p align="center">
-  <a href="https://linkedin.com/in/joonhunlee/">
+  <a href="https://www.linkedin.com/in/carlosmougan/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"
     />
   </a>
-  <a href="https://github.com/leejoonhun">
+  <a href="https://github.com/cmougan">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"
     />
