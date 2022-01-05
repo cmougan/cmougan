@@ -1,4 +1,6 @@
-<h3 align="center"> Hi there 👋 </h3>
+<div align='center'>
+  <img height=200 src='https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif' />
+</div>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmougan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,9 +19,7 @@
     />
   </a>
 </p>
-<div align='center'>
-  <img height=200 src='https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif' />
-</div>
+
 
 <div align="center">
   
