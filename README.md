@@ -27,6 +27,8 @@
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com)
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)](https://www.mysql.com)
 [![Pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)](https://pytorch.org/)
+ 
+![Views](https://komarev.com/ghpvc/?username=cmougan&color=yellow)
 
 </div>
 
